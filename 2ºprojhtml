@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Clínica XYZ</title>
+  <style>
+    /* Estilos CSS para melhor visualização - você pode personalizar conforme necessário */
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+    
+    header {
+      background-color: #333;
+      padding: 20px;
+      color: #fff;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #666;
+      padding: 10px;
+      color: #fff;
+      text-align: center;
+    }
+    
+    footer {
+      background-color: #666;
+      padding: 10px;
+      color: #fff;
+      text-align: center;
+    }
+    
+    section {
+      background-color: #fff;
+      padding: 20px;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 10px;
+      border: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="[imagem_principal.jpg]" alt="Imagem principal">
+  </header>
+  
+  <nav>
+    <a href="index.html">Principal</a> |
+    <a href="sobre.html">Sobre a clínica</a> |
+    <a href="horario.html">Horário de Atendimento</a> |
+    <a href="contato.html">Contato</a>
+  </nav>
+  
+  <section>
+    <h1>Página Principal</h1>
+    <p>Breve descrição sobre a clínica.</p>
+  </section>
+  
+  <footer>
+    Informações de contato: telefone - (11) 1234-5678 | endereço - Rua Principal, 123, Cidade, Estado
+  </footer>
+</body>
+</html>
